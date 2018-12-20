@@ -16,7 +16,7 @@
 ----
 #### 功能框架
 
-> <img src="https://github.com/yanjiansong89/demo/raw/master/房源租赁管理.png" width = "1000" height = "1330">
+> <img src="https://github.com/yanjiansong89/demo/raw/master/房源租赁管理.png" >
 
 #### *园区方功能列表*
 #### 楼宇管理
